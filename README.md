@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 <div align="justify">
-    My name is Michael and this is my GitHub page to showcase projects I've worked on.
+    My name is Michael and this is my GitHub page to showcase projects I've worked on.  I'm a Computer Science student at Oregon State University, and an aspring software developer.
 </div>
 
 # 🔧 Languages
