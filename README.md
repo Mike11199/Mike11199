@@ -83,6 +83,15 @@
       />
       <br /><strong>Git</strong>
     </td>
+    <td align="center" height="100" width="100">
+      <img
+        src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png"
+        width="48"
+        height="48"
+        alt="Assembly"
+      />
+      <br /><strong>Assembly</strong>
+    </td>
 
 
   </tr>
