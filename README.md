@@ -90,7 +90,7 @@
         height="48"
         alt="Assembly"
       />
-      <br /><strong>Assembly</strong>
+      <br /><strong>x86 Assembly</strong>
     </td>
 
 
