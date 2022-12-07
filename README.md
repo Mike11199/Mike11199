@@ -92,7 +92,25 @@
       />
       <br /><strong>x86 Assembly</strong>
     </td>
-
-
+  </tr>
+  <tr>
+    <td align="center" height="100" width="100">
+    <img
+    src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"  
+    width="48"
+    height="48"
+    alt="Java"
+    />
+    <br /><strong>Java</strong>
+    </td>
+            <td align="center" height="100" width="100">
+      <img
+        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg"
+        width="48"
+        height="48"
+        alt="C#"
+      />
+      <br /><strong>C#</strong>
+    </td>
   </tr>
 </table>
