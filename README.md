@@ -46,15 +46,15 @@
 </td>
   </tr>
   <tr>
-    <td align="center" height="100" width="100">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+      <td align="center" height="100" width="100">
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
         width="48"
         height="48"
-        alt="C++"
-      />
-      <br /><strong>C++</strong>
-    </td>
+        alt="Docker"
+    />
+    <br /><strong>Docker</strong>
+</td>
     <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -92,14 +92,14 @@
     />
     <br /><strong>PyTorch</strong>
 </td>
-      <td align="center" height="100" width="100">
+    <td align="center" height="100" width="100">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
         width="48"
         height="48"
-        alt="C"
+        alt="C++"
       />
-      <br /><strong>C</strong>
+      <br /><strong>C++</strong>
     </td>
       </tr>
 </table>
