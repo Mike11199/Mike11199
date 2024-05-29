@@ -1,7 +1,7 @@
-# 👋 Hi there!
+# 👋 Hello!
 
 <div align="justify">
-    I'm Michael - a full stack software developer and CS graduate from Oregon State University.  This is my GitHub page to showcase personal projects I've worked on.
+    I'm Michael - a full stack software developer and CS graduate from Oregon State University.  This is my GitHub profile to showcase personal projects I've worked on.
 </div>
 
 # 🔧 Languages/Tools
