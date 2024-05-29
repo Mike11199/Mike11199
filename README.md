@@ -92,6 +92,15 @@
     />
     <br /><strong>PyTorch</strong>
 </td>
+  <td align="center" height="100" width="100">
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+        width="48"
+        height="48"
+        alt="Linux"
+    />
+    <br /><strong>Linux</strong>
+</td>
     <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
@@ -101,5 +110,14 @@
       />
       <br /><strong>C++</strong>
     </td>
+          <td align="center" height="100" width="100">
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+        width="48"
+        height="48"
+        alt="Nginx"
+    />
+    <br /><strong>Nginx</strong>
+</td>
       </tr>
 </table>
