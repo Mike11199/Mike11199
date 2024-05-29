@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-      <td align="center" height="100" width="100">
+    <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
         width="48"
@@ -36,27 +36,27 @@
         alt="TypeScript"
        />
         <br /><strong>TypeScript</strong>
-    </td>    
-      <td align="center" height="100" width="100">
-    <img
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="100" width="100">
+      <img
         src="https://github.com/Mike11199/Mike11199/assets/91037796/c5d7200a-669a-4063-aedc-79dc77bea5e8"
         width="48"
         height="48"
         alt="AWS"
     />
     <br /><strong>AWS</strong>
-</td>
-  </tr>
-  <tr>
-      <td align="center" height="100" width="100">
-    <img
+    </td>
+    <td align="center" height="100" width="100">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
         width="48"
         height="48"
         alt="Docker"
-    />
-    <br /><strong>Docker</strong>
-</td>
+      />
+      <br /><strong>Docker</strong>
+    </td>
     <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -66,43 +66,46 @@
       />
       <br /><strong>Git</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="100" width="100">
-    <img
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="48"
         height="48"
         alt="PostgreSQL"
-    />
-    <br /><strong>PostgreSQL</strong>
+      />
+      <br /><strong>PostgreSQL</strong>
     </td>
     <td align="center" height="100" width="100">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
         width="48"
         height="48"
         alt="Java"
       />
       <br /><strong>Java</strong>
     </td>
-      <tr>
-          <td align="center" height="100" width="100">
-    <img
+    <td align="center" height="100" width="100">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
         width="48"
         height="48"
         alt="PyTorch"
-    />
-    <br /><strong>PyTorch</strong>
-</td>
-  <td align="center" height="100" width="100">
-    <img
+      />
+      <br /><strong>PyTorch</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="100" width="100">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
         width="48"
         height="48"
         alt="Linux"
-    />
-    <br /><strong>Linux</strong>
-</td>
+      />
+      <br /><strong>Linux</strong>
+    </td>
     <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
@@ -112,14 +115,14 @@
       />
       <br /><strong>C++</strong>
     </td>
-          <td align="center" height="100" width="100">
-    <img
+    <td align="center" height="100" width="100">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
         width="48"
         height="48"
         alt="Nginx"
-    />
-    <br /><strong>Nginx</strong>
-</td>
-      </tr>
+      />
+      <br /><strong>Nginx</strong>
+    </td>
+  </tr>
 </table>
