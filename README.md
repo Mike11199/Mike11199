@@ -1,34 +1,41 @@
 # 👋 Hi there!
 
 <div align="justify">
-    My name is Michael and this is my GitHub page to showcase projects I've worked on.  I'm a Computer Science student at Oregon State University, and an aspring software developer.
+    I'm Michael - a full stack software developer and CS graduate from Oregon State University.  This is my GitHub page to showcase personal projects I've worked on.
 </div>
 
 # 🔧 Languages
 
-<!--Got SVG icons from this website https://devicon.dev/  -->
-
 <table>
   <tr>
-  <td align="center" height="100" width="100">
-    <img
-      src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"
-      width="48"
-      height="48"
-      alt="Python"
-    />
-    <br /><strong>Python</strong>
-  </td>
+      <td align="center" height="100" width="100">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        width="48"
+        height="48"
+        alt="C#"
+      />
+      <br /><strong>C#</strong>
+    </td>
     <td align="center" height="100" width="100">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-      width="48"
-      height="48"
-      alt="C"
-    />
-    <br /><strong>C</strong>
-  </td>
-   <td align="center" height="100" width="100">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="100" width="100">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+        width="48"
+        height="48"
+        alt="C"
+      />
+      <br /><strong>C</strong>
+    </td>
+    <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
         width="48"
@@ -37,24 +44,8 @@
       />
       <br /><strong>C++</strong>
     </td>
-    <td align="center" height="100" width="100">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="100" width="100">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
+  </tr>
+  <tr>
     <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -63,16 +54,6 @@
         alt="JavaScript"
       />
       <br /><strong>JavaScript</strong>
-    </td>
-        <td align="center" height="100" width="100">
-      <img
-        src="https://user-images.githubusercontent.com/91037796/155045916-bc5df1dc-383c-4bee-a273-a558007399c1.png"
-        width="48"
-        height="48"
-        alt="VBA"
-      />
-      <br /><strong>VBA</strong>
-    </td>
     </td>
     <td align="center" height="100" width="100">
       <img
@@ -92,25 +73,13 @@
       />
       <br /><strong>x86 Assembly</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="100" width="100">
-    <img
-    src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg"  
-    width="48"
-    height="48"
-    alt="Java"
-    />
-    <br /><strong>Java</strong>
-    </td>
-            <td align="center" height="100" width="100">
       <img
-        src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  
         width="48"
         height="48"
-        alt="C#"
+        alt="Java"
       />
-      <br /><strong>C#</strong>
+      <br /><strong>Java</strong>
     </td>
-  </tr>
 </table>
