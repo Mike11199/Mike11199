@@ -35,15 +35,15 @@
        />
         <br /><strong>TypeScript</strong>
     </td>    
-    <td align="center" height="100" width="100">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+      <td align="center" height="100" width="100">
+    <img
+        src="https://github.com/Mike11199/Mike11199/assets/91037796/c5d7200a-669a-4063-aedc-79dc77bea5e8"
         width="48"
         height="48"
-        alt="C"
-      />
-      <br /><strong>C</strong>
-    </td>
+        alt="AWS"
+    />
+    <br /><strong>AWS</strong>
+</td>
   </tr>
   <tr>
     <td align="center" height="100" width="100">
@@ -65,13 +65,13 @@
       <br /><strong>Git</strong>
     </td>
     <td align="center" height="100" width="100">
-      <img
-        src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png"
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="48"
         height="48"
-        alt="Assembly"
-      />
-      <br /><strong>x86 Assembly</strong>
+        alt="PostgreSQL"
+    />
+    <br /><strong>PostgreSQL</strong>
     </td>
     <td align="center" height="100" width="100">
       <img
@@ -82,4 +82,15 @@
       />
       <br /><strong>Java</strong>
     </td>
+      <tr>
+              <td align="center" height="100" width="100">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+        width="48"
+        height="48"
+        alt="C"
+      />
+      <br /><strong>C</strong>
+    </td>
+      </tr>
 </table>
