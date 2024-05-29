@@ -83,7 +83,16 @@
       <br /><strong>Java</strong>
     </td>
       <tr>
-              <td align="center" height="100" width="100">
+          <td align="center" height="100" width="100">
+    <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+        width="48"
+        height="48"
+        alt="PyTorch"
+    />
+    <br /><strong>PyTorch</strong>
+</td>
+      <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
         width="48"
