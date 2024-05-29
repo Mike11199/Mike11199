@@ -4,7 +4,7 @@
     I'm Michael - a full stack software developer and CS graduate from Oregon State University.  This is my GitHub page to showcase personal projects I've worked on.
 </div>
 
-# 🔧 Languages
+# 🔧 Languages/Tools
 
 <table>
   <tr>
@@ -28,6 +28,15 @@
     </td>
     <td align="center" height="100" width="100">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+       />
+        <br /><strong>TypeScript</strong>
+    </td>    
+    <td align="center" height="100" width="100">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
         width="48"
         height="48"
@@ -35,6 +44,8 @@
       />
       <br /><strong>C</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
@@ -43,17 +54,6 @@
         alt="C++"
       />
       <br /><strong>C++</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="100" width="100">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="100" width="100">
       <img
