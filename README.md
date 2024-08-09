@@ -59,12 +59,12 @@
     </td>
     <td align="center" height="100" width="100">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://github.com/user-attachments/assets/0859d83a-cacd-4faf-85c4-6c636ab10d35"
         width="48"
         height="48"
         alt="Git"
       />
-      <br /><strong>Git</strong>
+      <br /><strong>Kafka</strong>
     </td>
   </tr>
   <tr>
